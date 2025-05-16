@@ -1,5 +1,8 @@
 # Projet de Gestion d'Hôtels - MySQL & Streamlit
-
+Realiser par :
+- Salah Eddine CHELKHA (INFO-4)
+- Ikram MOUNTASSIR (IAP-4)
+  
 ## 🔧 Technologies
 - MySQL
 - SQLite
